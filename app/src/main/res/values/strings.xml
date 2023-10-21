@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="txt_detail"> Enter the Detail</string>
+    <string name="hint_height">Height(cm)</string>
+    <string name="hint_weight">Weight(kg)</string>
+    <string name="btn_text">Calculate</string>
+    <string name="txt_Result">Result</string>
+</resources>
